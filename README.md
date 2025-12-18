@@ -17,6 +17,23 @@ This project focuses on the computational screening and validation of Wheat Germ
     *   `calculate_extra_stats.py`: Statistical analysis of MD trajectories.
 *   `docs/`: Technical reports and methodology.
 *   `results/`: Summary of key findings and validation metrics.
+    *   `sample_ranking.csv`: Top 10 candidate predictions.
+*   `data/`: Sample input data for testing the pipeline.
+
+## Installation
+1.  Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/WGA-Portfolio.git
+    cd WGA-Portfolio
+    ```
+2.  Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+*   **GNN Inference**: `python src/inference_gnn.py`
+*   **MD Analysis**: `bash scripts/generate_missing_stats.sh`
 
 ## Technology Stack
 *   **Bioinformatics**: GROMACS, AmberTools (MMPBSA), PLIP, BLAST+

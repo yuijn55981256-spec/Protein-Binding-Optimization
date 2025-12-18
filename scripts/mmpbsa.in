@@ -1,0 +1,10 @@
+&general
+startframe=1,
+endframe=999999,
+interval=1,
+forcefields="oldff/leaprc.ff99SB,leaprc.gaff2"
+/
+&pb
+istrng=0.15,
+fillratio=4.0
+/

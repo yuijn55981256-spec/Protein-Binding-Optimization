@@ -24,4 +24,4 @@ This project focuses on the computational screening and validation of Wheat Germ
 *   **Languages**: Python, Bash
 
 ## Contact
-[Your Name/Email]
+[yujin/yujin55981256@gmail.com]
